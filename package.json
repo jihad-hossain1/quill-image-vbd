@@ -9,6 +9,13 @@
     "build",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihadhossain/quill-image-vbd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jihadhossain/quill-image-vbd/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rm -rf build && tsc"
