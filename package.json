@@ -1,6 +1,6 @@
 {
   "name": "quill-image-vbd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "image upload handler with typescript",
   "main": "build/index.js",
   "type": "module",
