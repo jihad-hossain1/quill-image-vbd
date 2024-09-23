@@ -1,0 +1,30 @@
+{
+  "name": "quill-image-vbd",
+  "version": "1.0.0",
+  "description": "image upload handler with typescript",
+  "main": "build/index.js",
+  "type": "module",
+  "types": "build/index.d.ts",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf build && tsc"
+  },
+  "keywords": [
+    "image",
+    "upload",
+    "quill",
+    "image",
+    "upload",
+    "react-quill"
+  ],
+  "author": "Jihad Hossain",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "typescript": "^5.6.2"
+  }
+}
