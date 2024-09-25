@@ -13,7 +13,7 @@ import "react-quill/dist/quill.snow.css"; // Ensure this import is here
 const ReactQuill = dynamic(() => import("react-quill"), { ssr: false });
 
 // Dynamically import the ImageUploader module
-const ImageUploader = dynamic(() => import("./src/quill.imageuploader"), {
+const ImageUploader = dynamic(() => import("quill-image-vbd"), {
     ssr: false,
 });
 
