@@ -26,7 +26,12 @@
     "quill",
     "image",
     "upload",
-    "react-quill"
+    "react-quill",
+    "image-upload-handler",
+    "image-upload-typescript",
+    "image-upload-handler-with-typescript-and-quill",
+    "image-quill-delta",
+    "image-upload-quill"
   ],
   "author": "Jihad Hossain",
   "license": "ISC",
